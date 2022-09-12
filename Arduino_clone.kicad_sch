@@ -1,5 +1,22 @@
 (kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid d0e331d8-1a11-4bfe-a302-2cc7a128cbad)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (title_block
+    (title "Arduino Clone ")
+    (date "2022-09-12")
+    (rev "0")
+    (company "NanaHertz")
+    (comment 1 "Designed by Bernard")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
