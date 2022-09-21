@@ -327,7 +327,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid d03b72fb-2cac-419e-9763-f5dd23f86cd5)
   )
-  (hierarchical_label "sck" (shape bidirectional) (at 157.48 96.52 180)
+  (hierarchical_label "SCKIC2" (shape bidirectional) (at 157.48 96.52 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid d5e1acc1-9fd0-4cb4-9ddc-293b7f69cd29)
   )
