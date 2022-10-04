@@ -39,7 +39,7 @@
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
+        "silk_text_size_h": 0.6,
         "silk_text_size_v": 1.0,
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
@@ -351,7 +351,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Arduino_clone.kicad_pro",
+    "filename": "Arduino_clone2_layer.kicad_pro",
     "version": 1
   },
   "net_settings": {
